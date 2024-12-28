@@ -1,4 +1,5 @@
-I'm <ruby>in1tiate<rp>(</rp><rt>i-ni-she-it</rt><rp>)</rp></ruby> (init for short), a freelance software engineer.
+###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i-ni-she-it
+I'm in1tiate (init for short), a freelance software engineer.
 
 My current projects are:
 - the Attorney Online project and associated software
