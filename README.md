@@ -1,4 +1,10 @@
-## Hi there 👋
+I'm <ruby>in1tiate<rp>(</rp><rt>i-ni-she-it</rt><rp>)</rp></ruby> (init for short), a freelance software engineer.
+
+My current projects are:
+- the Attorney Online project and associated software
+- a more complete set of documentation for WrightScript, a visual novel display scriptlang similar to renpy
+- a few ✨secret✨ projects
+- whatever else suits my fancy
 
 <!--
 **in1tiate/in1tiate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
