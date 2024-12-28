@@ -1,4 +1,4 @@
-###### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i-ni-she-it
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>i-ni-she-it</sub><br>
 I'm in1tiate (init for short), a freelance software engineer.
 
 My current projects are:
